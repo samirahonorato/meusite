@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: 400px;
+}
+.roxo{
+    color:#660066
+   
+}
+
+.centro{
+    text-align: center;
+}
+h1,h2{
+    font-family: 'Merriweather', serif;
+}
